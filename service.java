@@ -1,1 +1,2 @@
-frst file in the branch 
+frst file in the branch.
+editing in master
